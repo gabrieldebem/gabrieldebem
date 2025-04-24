@@ -3,7 +3,7 @@
 - 🔧 Entusiasta do [Refactor](https://martinfowler.com/books/refactoring.html)<br>
 - ⚙️ Interessado em **concorrência** e **comunicação assíncrona**<br>
 - 🐳 Tudo que pode, deve rodar com Docker<br>
-- 🚦 Projeto sem CI é projeto amador
+- 🚦 Um projeto sem CI é um projeto amador
 
 
 ## 🌐 Socials:
